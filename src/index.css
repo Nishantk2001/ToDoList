@@ -97,7 +97,7 @@ ol li {
 
 @media (max-width: 768px) {
   .center_div {
-    width: 55%;
+    width: 80%;
   }
   .todo_style .fa-regular {
     margin: 0 15px 0 15px;
